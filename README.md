@@ -1,4 +1,7 @@
-# Replication template
+##Final project
+
+This is my final project for Rochelle´s class. 
+
 
 This is a template you can use for your final projects (as well other projects where you need to post replication code.) Fill in each section with information on your own project.
 
